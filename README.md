@@ -1,4 +1,4 @@
-# 2017-French-presidential-elections
+# 2017 French presidential elections
 
 * Language: Python
 * Methods: word cloud
