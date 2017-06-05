@@ -1,5 +1,11 @@
 # 2017-French-presidential-elections
 
+* Language: Python
+* Methods: word cloud
+
+
+## Context
+
 My aim was to highlight differences between Emmanuel Macron and Marine Le Pen, the two candidates who went to the second round of the 2017 French presidential elections.
 
 I have downloaded transcripts of the speeches that the two candidates performed from the 1st of January 2017 to the 1st of May 2017.
